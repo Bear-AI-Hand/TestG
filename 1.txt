@@ -2,8 +2,3 @@
 1
 1
 1
-<<<<<<< HEAD
-C
-=======
-D
->>>>>>> 96d46deaf620cab47bcdd6a2e964a7fcdd51a64d
